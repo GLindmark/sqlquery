@@ -1,0 +1,1 @@
+select * from Job order by salary asc;
